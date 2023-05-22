@@ -1,4 +1,4 @@
-#Python-API-Challenge
+# Python-API-Challenge
 
 ## Main Purpose
 - Creating a model of weather from 1500 samples which determined by random selected
@@ -15,6 +15,7 @@ longitude and latitude (Total number of sampled cities: 577 )
 - OpenWeatherMap API
 - Geoapify API
 
-/Users/Florence/Desktop/il_1588xN.1499181759_h8us.jpg.avif
+![il_1588xN 1499181759_h8us](https://github.com/florencex5/python-api-challenge/assets/129706051/cc3adf13-7c6c-4703-b05d-7959221e7e1e)
+
 
 
