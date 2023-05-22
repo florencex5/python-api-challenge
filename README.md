@@ -1,6 +1,6 @@
 # Python-API-Challenge
 
-## Main Purpose
+## Main Purposes
 - Creating a model of weather from 1500 samples which determined by random selected
 longitude and latitude (Total number of sampled cities: 577 )
 - Using linear regression model to check if latitude will affect the weather conditions
