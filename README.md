@@ -1,3 +1,20 @@
-# python-api-challenge
+#Python-API-Challenge
 
-abcd
+## Main Purpose
+- Creating a model of weather from 1500 samples which determined by random selected
+longitude and latitude (Total number of sampled cities: 577 )
+- Using linear regression model to check if latitude will affect the weather conditions
+(E.g. Max Temperature, Humidity, Cloudiness, Wind Speed)
+- Using Pandas to filter the sampled cities by setting up:
+    1) Cloudiness equals to 0 %
+    2) Max Temperature is between 18 C and 22 C
+    3) Wind speed is smaller than or equal to 4 m/s
+- Using Geoapify API to search the hotels which met the specific conditions
+
+## Sources
+- OpenWeatherMap API
+- Geoapify API
+
+/Users/Florence/Desktop/il_1588xN.1499181759_h8us.jpg.avif
+
+
