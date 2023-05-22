@@ -2,7 +2,7 @@
 
 ## Main Purposes
 - Creating a model of weather from 1500 samples which determined by random selected
-longitude and latitude (Total number of sampled cities: 577 )
+longitude and latitude (Total number of sampled cities: 549 )
 - Using linear regression model to check if latitude will affect the weather conditions
 (E.g. Max Temperature, Humidity, Cloudiness, Wind Speed)
 - Using Pandas to filter the sampled cities by setting up:
